@@ -1,0 +1,19 @@
+{
+    "folders": [
+        {
+            "path": "."
+        },
+        {
+            "path": "../../Downloads/Montserrat"
+        }
+    ],
+    "settings": {
+        "cloudcode.kubeconfigs": [
+            {
+                "name": "/Users/jakubnabywaniec/.kube/config",
+                "configPath": "/Users/jakubnabywaniec/.kube/config"
+            }
+        ],
+        "cloudcode.active-kubeconfig": "/Users/jakubnabywaniec/.kube/config"
+    }
+}
